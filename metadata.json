@@ -1,0 +1,7 @@
+{
+  "name": "Cabe no Bolso",
+  "description": "App inteligente para comparar preços reais, entender promoções e controlar seu carrinho de compras com foco em economia.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
